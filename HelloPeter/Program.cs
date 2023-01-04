@@ -11,6 +11,8 @@ namespace HelloPeter
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Hello Peter");
+
+			//2st modify
 			Console.ReadKey();
 		}
 	}
